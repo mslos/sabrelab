@@ -1,1 +1,1 @@
-ssh -i sabrelab.pem ubuntu@52.10.111.167
+ssh -i sabrelab.pem root@47.79.166.88
