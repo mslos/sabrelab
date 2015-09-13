@@ -46,7 +46,7 @@
   "devDependencies": {
     "chai": "latest",
     "mocha": "latest",
-    "sabre-dev-studio": "^1.0.1",
+    "sabre-dev-studio": "^1.0.2",
     "should": "latest",
     "supertest": "latest"
   },
